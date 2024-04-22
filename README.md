@@ -1,3 +1,5 @@
 # Snake-Game
 Snake Mania
-the 
+
+
+The Game is live on https://rimanshu-rambhad-snakegame.netlify.app/
